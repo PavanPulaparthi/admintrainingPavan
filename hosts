@@ -1,0 +1,3 @@
+[galaxyservers]
+c5d6b379-3861-4ac2-87cf-992fdaa2cde3.fr.bw-cloud-instance.org ansible_connection=local ansible_user=ubuntu
+
